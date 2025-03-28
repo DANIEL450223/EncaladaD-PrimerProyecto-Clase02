@@ -7,3 +7,6 @@ namespace Primer_Proyecto__Clase02.Models
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
+
+
+//Comentario de prueba 2
